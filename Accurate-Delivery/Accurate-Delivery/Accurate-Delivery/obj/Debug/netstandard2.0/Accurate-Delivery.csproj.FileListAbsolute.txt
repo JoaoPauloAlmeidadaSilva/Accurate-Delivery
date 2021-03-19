@@ -1,0 +1,14 @@
+C:\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\bin\Debug\netstandard2.0\Accurate-Delivery.deps.json
+C:\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\bin\Debug\netstandard2.0\Accurate-Delivery.dll
+C:\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\bin\Debug\netstandard2.0\ref\Accurate-Delivery.dll
+C:\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\bin\Debug\netstandard2.0\Accurate-Delivery.pdb
+C:\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\obj\Debug\netstandard2.0\Accurate-Delivery.csprojAssemblyReference.cache
+C:\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\obj\Debug\netstandard2.0\Accurate-Delivery.AssemblyInfoInputs.cache
+C:\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\obj\Debug\netstandard2.0\Accurate-Delivery.AssemblyInfo.cs
+C:\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\obj\Debug\netstandard2.0\Accurate-Delivery.csproj.CoreCompileInputs.cache
+C:\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\obj\Debug\netstandard2.0\Accurate-Delivery.dll
+C:\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\obj\Debug\netstandard2.0\ref\Accurate-Delivery.dll
+C:\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\Accurate-Delivery\obj\Debug\netstandard2.0\Accurate-Delivery.pdb
